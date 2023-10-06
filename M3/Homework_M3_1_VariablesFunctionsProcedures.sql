@@ -1,13 +1,8 @@
--- Ejecutar el script AdventureWorks.sql para cargar las tablas y sus registros.
+/* Ejecutar el script AdventureWorks.sql para cargar las tablas y sus registros.
+> Origen del Dataset: https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008/ms124597(v=sql.100)
+> Diccionario de Datos: AdventureWorks_DataDictionary */
 
-/* Origen del Dataset: https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008/ms124597(v=sql.100)
-   Diccionario de Datos: AdventureWorks_DataDictionary
-*/
-
-```sql
 USE `adventureworks`;
-```
-
 
 -- 1. Crear un procedimiento que recibe como parámetro una fecha y muestre la cantidad de órdenes ingresadas en esa fecha.
 DROP PROCEDURE Purchase_OrderDate;
