@@ -4,7 +4,10 @@
    Diccionario de Datos: AdventureWorks_DataDictionary
 */
 
+```sql
 USE `adventureworks`;
+```
+
 
 -- 1. Crear un procedimiento que recibe como parámetro una fecha y muestre la cantidad de órdenes ingresadas en esa fecha.
 DROP PROCEDURE Purchase_OrderDate;
