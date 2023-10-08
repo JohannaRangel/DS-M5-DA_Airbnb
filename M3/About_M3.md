@@ -28,4 +28,4 @@ During this Lecture I learned:
 **``` Deep Dive SQL ```**  **``` Data Description ```**  **``` Data Cleansing ```**  **``` ETL ```**<br />
 <br />
 
-*P.S.: Those who are really good know the secret, practice makes perfect.*
+:warning: *P.S.: Those who are really good know the secret, practice makes perfect.*
