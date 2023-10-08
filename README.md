@@ -6,10 +6,16 @@
 **```Go ahead!!!```** <br />
 <br />
 
+M1 - Python Deep Dive
+------------- 
+[About_M1](M1/About_M1.md) - Key Module 1 Information
+1. [Help](.ipynb) -  documentation
+<br />
+
 M3 - Data Engineer I 
 ------------- 
-[About_M3](M3/About_M3.md) - Key Module Information
-1. [Homework_M3_1](M3/Homework_M3_1_VariablesFunctionsProcedures.sql) - Variables. Funciones. Procedimientos Almacenados
+[About_M3](M3/About_M3.md) - Key Module 3 Information
+1. [Homework_M3_1](M3/Homework_M3_1_VariablesFunctionsProcedures.sql) - Variables. Features. Stored Procedures
 2. [Help](.ipynb) -  documentation
 
 <br />
