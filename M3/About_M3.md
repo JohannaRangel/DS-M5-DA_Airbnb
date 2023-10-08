@@ -29,5 +29,4 @@ During this Lecture I learned:
 <br />
 
 >*P.S.: Those who are really good know the secret, practice makes perfect.*
-
 <sub>Return to page [README](README.md)</sub> 
