@@ -6,7 +6,7 @@
 [![Lucidchart](https://img.shields.io/badge/Lucidchart+-f29221?style=for-the-badge&logo=Lucidchart&logoColor=white&labelColor=yellow)](https://Lucidchart.com)
 
 <br />
-During this Lecture I learned:
+During this Lecture I learned:<br />
 
 - Apply variables, functions and procedures in SQL.
 - Set Theory
