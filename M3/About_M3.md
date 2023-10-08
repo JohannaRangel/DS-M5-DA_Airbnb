@@ -28,6 +28,7 @@ During this Lecture I learned:
 **``` Deep Dive SQL ```**  **``` Data Description ```**  **``` Data Cleansing ```**  **``` ETL ```**<br />
 <br />
 
->*P.S.: Those who are really good know the secret, practice makes perfect.*
+*P.S.: Those who are really good know the secret, practice makes perfect.*
 <br />
+
 <sub>Return to page [README](README.md)</sub> 
