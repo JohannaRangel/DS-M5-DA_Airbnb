@@ -7,7 +7,7 @@
 
 <br />
 During this Lecture I learned:
-
+<br />
 - Understand the basic principles of Computer Science
 - Know the different types of data
 - Understand what Exploratory Analysis is about
