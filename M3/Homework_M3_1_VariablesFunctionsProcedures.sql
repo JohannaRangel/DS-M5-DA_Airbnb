@@ -1,8 +1,6 @@
--- Ejecutar el script AdventureWorks.sql para cargar las tablas y sus registros.
-
-/* Origen del Dataset: https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008/ms124597(v=sql.100)
-   Diccionario de Datos: AdventureWorks_DataDictionary
-*/
+/* Ejecutar el script AdventureWorks.sql para cargar las tablas y sus registros.
+> Origen del Dataset: https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008/ms124597(v=sql.100)
+> Diccionario de Datos: AdventureWorks_DataDictionary */
 
 USE `adventureworks`;
 
