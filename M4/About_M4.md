@@ -36,6 +36,7 @@ During this Lecture I learned:<br />
 [VirtualBox](https://www.virtualbox.org/)<br />
 [PuTTY](https://putty.org/)<br />
 [WinSCP](https://winscp.net/eng/download.php)
+[Ubuntu Server](https://ubuntu.com/download/server)
 <br /><br />
 
 :warning: *P.S.: Those who are really good know the secret, practice makes perfect.*
