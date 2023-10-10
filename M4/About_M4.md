@@ -33,9 +33,9 @@ During this Lecture I learned:<br />
 **``` Big Data (Hadoop) ```**  **``` Batch/Streaming Processing ```**  **``` NO-SQL ```**  **``` Data Flow Orchestration ```** <br />
 <br />
 ### References:
-<!--[Python](https://www.python.org/)<br />
-[Pandas](https://pandas.pydata.org/)<br />
-[Numpy](https://numpy.org/) -->
+[VirtualBox](https://www.virtualbox.org/)<br />
+[PuTTY](https://putty.org/)<br />
+[WinSCP](https://winscp.net/eng/download.php)
 <br /><br />
 
 :warning: *P.S.: Those who are really good know the secret, practice makes perfect.*
