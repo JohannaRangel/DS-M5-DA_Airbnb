@@ -32,11 +32,16 @@ During this Lecture I learned:<br />
 
 **``` Big Data (Hadoop) ```**  **``` Batch/Streaming Processing ```**  **``` NO-SQL ```**  **``` Data Flow Orchestration ```** <br />
 <br />
-### References:
+### References and Resources:
 [VirtualBox](https://www.virtualbox.org/)<br />
 [PuTTY](https://putty.org/)<br />
 [WinSCP](https://winscp.net/eng/download.php)<br />
-[Ubuntu Server](https://ubuntu.com/download/server)
+[Ubuntu Server](https://ubuntu.com/download/server)<br />
+[Docker](https://docs.docker.com/)
 <br /><br />
+González, C. (2023). [La relevancia del 'big data': una tendencia en auge por su claro potencial y uso de la IA](https://computerhoy.com/tecnologia/relevancia-big-data-tendencia-auge-potencial-1219808). Website: https://computerhoy.com/tecnologia/
+
+Apellido Autor, Inicial Autor. (Año de publicación). Título. Recuperado el Fecha de acceso, de Nombre de la Web website: http:// URL Página Web
+Aso, U. (2017). Epilepsia gelástica: síntomas, causas y tratamiento. Recuperado el 15 de octubre de 2019, de Psicología y Mente website: https://psicologiaymente.com/clinica/epilepsia-gelastica
 
 :warning: *P.S.: Those who are really good know the secret, practice makes perfect.*
