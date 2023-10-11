@@ -37,7 +37,8 @@ During this Lecture I learned:<br />
 [PuTTY](https://putty.org/)<br />
 [WinSCP](https://winscp.net/eng/download.php)<br />
 [Ubuntu Server](https://ubuntu.com/download/server)<br />
-[Docker](https://docs.docker.com/)
+[Docker](https://docs.docker.com/)<br />
+[Hadoop](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
 <br /><br />
 González, C. (2023). [La relevancia del 'big data': una tendencia en auge por su claro potencial y uso de la IA](https://computerhoy.com/tecnologia/relevancia-big-data-tendencia-auge-potencial-1219808). <sup> Website: https://computerhoy.com/tecnologia/</sup>
 
