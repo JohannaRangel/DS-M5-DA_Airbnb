@@ -32,6 +32,11 @@ During this Lecture I learned:<br />
 
 **``` Big Data (Hadoop) ```**  **``` Batch/Streaming Processing ```**  **``` NO-SQL ```**  **``` Data Flow Orchestration ```** <br />
 <br />
+### Project:
+[BigData](https://github.com/JohannaRangel/DS-M4-Herramientas_Big_Data.git): You can't miss this interesting practice. It is about emulating a work environment, from an innovation area where they request to build an MVP (Minimum Viable Product) of a Big Data environment.
+You can find my exercises in the "Evidence" folder. :zany_face: :upside_down_face: Excellent challenge...
+<br />
+
 ### References and Resources:
 [VirtualBox](https://www.virtualbox.org/)<br />
 [PuTTY](https://putty.org/)<br />
@@ -40,7 +45,7 @@ During this Lecture I learned:<br />
 [Docker](https://docs.docker.com/)<br />
 [Hadoop](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
 <br /><br />
-González, C. (2023). [La relevancia del 'big data': una tendencia en auge por su claro potencial y uso de la IA](https://computerhoy.com/tecnologia/relevancia-big-data-tendencia-auge-potencial-1219808). <sup> Website: https://computerhoy.com/tecnologia/</sup>
+González, C. (2023). [The relevance of 'big data': a growing trend due to its clear potential and use of AI](https://computerhoy.com/tecnologia/relevancia-big-data-tendencia-auge-potencial-1219808). <sup> Website: https://computerhoy.com/tecnologia/</sup>
 
 <!-- Apellido Autor, Inicial Autor. (Año de publicación). Título. Recuperado el Fecha de acceso, de Nombre de la Web website: http:// URL Página Web
 Aso, U. (2017). Epilepsia gelástica: síntomas, causas y tratamiento. Recuperado el 15 de octubre de 2019, de Psicología y Mente website: https://psicologiaymente.com/clinica/epilepsia-gelastica -->
