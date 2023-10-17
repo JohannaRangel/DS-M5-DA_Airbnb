@@ -1,6 +1,8 @@
 # Module 4: Data Engineer II
 #### Started: 09/10/23 | Ended: 20/10/23<br />
-
+<p align="center">
+  <img width="200" alt="100" src="https://github.com/JohannaRangel/DS_SoyHenry/assets/33591776/55eb8780-1e86-4437-be45-12c89b8ab889">
+</p>
 <br />
 During this Lecture I learned:<br />
 
