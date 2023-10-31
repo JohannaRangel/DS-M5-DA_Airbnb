@@ -4,7 +4,9 @@
  
   **<summary>Pautas</summary>**  
 <div id='id0' /> 
-
+Módulo 5: Data Analytics
+Instructor: Mario Esteban Suaza Medina
+ 
 **El objetivo de este trabajo práctico es aplicar los conceptos y técnicas aprendidos en el modulo para realizar un análisis exploratorio y descriptivo de un conjunto de datos reales.**
 
 Para realizar el trabajo práctico se deberá seguir los siguientes pasos:
@@ -49,6 +51,7 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
   **<summary>Informe Técnico</summary>**  
 <div id='id00' /> 
 
+
 **Índice**
 1. [Recopilación de datos](#idIT1)
 2. [Preparación de datos](#idIT2)
@@ -61,7 +64,10 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 <div id='idIT1' />
   
 ### Recopilación de datos (Data collection)
-Texto del primer apartado
+Las fuentes de datos fueron suministrada por #Henry en archivos csv, los cuales se descargaron a través de la plataforma students.
+
+La tarea se centrará en datos históricos.
+
 [Ir al índice del Informe Técnico](#id00)
 
 <div id='idIT2' />
