@@ -1,3 +1,14 @@
+**Índice**   
+1. [Primer apartado](#id1)
+2. [Segundo apartado](#id2)
+
+## Primer apartado<a name="id1"></a>
+Texto del primer apartado
+
+## Segundo apartado<a name="id2"></a>
+Texto del segundo apartado
+
+
 # Proyecto Integrador - Airbnb
 
 <details>
@@ -21,8 +32,6 @@
 Texto del primer apartado
 
   
-## Seccion dos
-Texto del segundo apartado
 
   
 **El objetivo de este trabajo práctico es aplicar los conceptos y técnicas aprendidos en el modulo para realizar un análisis exploratorio y descriptivo de un conjunto de datos reales.**
@@ -35,7 +44,11 @@ Los dataset con los que podras elegir seran los siguientes:
 
 
 Para realizar el trabajo práctico se deberá seguir los siguientes pasos:
+
 <div id='id2' />
+  
+## Seccion dos
+Texto del segundo apartado
   
 1. Descargar el archivo con los datos desde [indicar la fuente o el enlace].
 2. Importar los datos en un la herramienta que deseen utilizar (Power Bi, Python)
