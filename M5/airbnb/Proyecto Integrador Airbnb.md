@@ -39,60 +39,58 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 | listings.csv: Detalle de cada operación de Listing (incluye datos descriptivos de la vivienda (ambientes, host, noches mínimas y máximas, cantidad de reviews)
 | reviews.csv Datos de review de los usuarios.
 
-[Ir al inicio de las pautas](#id0)
+[Ir a las pautas](#id0)
 </details>
 
 ---
 
 <details>
  
-  **<summary>Informe Técnico </summary>**  
+  **<summary>Informe Técnico</summary>**  
 <div id='id00' /> 
 
-**El objetivo de este trabajo práctico es aplicar los conceptos y técnicas aprendidos en el modulo para realizar un análisis exploratorio y descriptivo de un conjunto de datos reales.**
-
 **Índice**
-1. [Recopilación de datos](#id1)
-2. [Preparación de datos](#id2)
-3. [Introducción de datos](#id3)
-4. [Procesamiento / limpieza de datos](#id4)
-5. [Interpretación de datos](#id5)
-6. [Almacenamiento de datos](#id6)
+1. [Recopilación de datos](#idIT1)
+2. [Preparación de datos](#idIT2)
+3. [Introducción de datos](#idIT3)
+4. [Procesamiento / limpieza de datos](#idIT4)
+5. [Interpretación de datos](#idIT5)
+6. [Almacenamiento de datos](#idIT6)
 
 
-<div id='id1' />
+<div id='idIT1' />
   
-## Recopilación de datos (Data collection)
+### Recopilación de datos (Data collection)
 Texto del primer apartado
 [Ir al índice del Informe Técnico](#id00)
 
-<div id='id2' />
+<div id='idIT2' />
   
-## Preparación de datos (Data preparation)
+### Preparación de datos (Data preparation)
 Texto del segundo apartado
 [Ir al índice del Informe Técnico](#id00)
   
-<div id='id3' />
+<div id='idIT3' />
   
-## Introducción de datos (Data entry)
-Texto del segundo apartado
-[Ir al índice del Informe Técnico](#id00)
-
-<div id='id4' />
-  
-## Procesamiento / limpieza de datos (Data processing/cleaning)
+### Introducción de datos (Data entry)
 Texto del segundo apartado
 [Ir al índice del Informe Técnico](#id00)
 
-<div id='id5' />
+<div id='idIT4' />
   
-## Interpretación de datos (Data interpretation)
+### Procesamiento / limpieza de datos (Data processing/cleaning)
 Texto del segundo apartado
 [Ir al índice del Informe Técnico](#id00)
 
-<div id='id6' />
+<div id='idIT5' />
   
-## Almacenamiento de datos (Data storage)
+### Interpretación de datos (Data interpretation)
+Texto del segundo apartado
+[Ir al índice del Informe Técnico](#id00)
+
+<div id='idIT6' />
+  
+### Almacenamiento de datos (Data storage)
 Texto del segundo apartado
 [Ir al índice del Informe Técnico](#id00)
 
@@ -100,6 +98,29 @@ Texto del segundo apartado
 
 ---
 
+<details>
+ 
+  **<summary>Resumen Ejecutivo</summary>**  
+<div id='id000' /> 
+ 
+**Índice**
+1. [Recopilación de datos](#idRE1)
+2. [Preparación de datos](#idRE2)
+3. [Introducción de datos](#idRE3)
+4. [Procesamiento / limpieza de datos](#idRE4)
+5. [Interpretación de datos](#idRE5)
+6. [Almacenamiento de datos](#idRE6)
+
+
+<div id='idRE1' />
+  
+### Recopilación de datos (Data collection)
+Texto del primer apartado
+[Ir al índice del Resumen Ejecutivo](#id000)
+
+</details>
+
+---
 
 > **Important** 
 > Esta actividad es parte de mi portafolio de prácticas netamente educativas que permiten mejorar mis habilidades en Data Science con problemas y conjuntos de datos del mundo real.
