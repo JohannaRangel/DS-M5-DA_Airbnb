@@ -1,5 +1,3 @@
-
-
 # Proyecto Integrador - Airbnb
 
 <details>
@@ -13,25 +11,19 @@
 </details>
 
 ---
-
-Bienvenido al TP Integrador del M5.
-
 **Índice**
 1. [Primer apartado](#id1)
 2. [Segundo apartado](#id1)
-
    
 <div id='id1' />
   
 ## Seccion uno
 Texto del primer apartado
 
-<div id='id2' />
   
 ## Seccion dos
 Texto del segundo apartado
 
-<div id='id1' />
   
 **El objetivo de este trabajo práctico es aplicar los conceptos y técnicas aprendidos en el modulo para realizar un análisis exploratorio y descriptivo de un conjunto de datos reales.**
 
@@ -40,15 +32,6 @@ Los dataset con los que podras elegir seran los siguientes:
 * Gaming
 * Airbnb
 
-**Índice**   
-1. [Primer apartado](#id1)
-2. [Segundo apartado](#id2)
-
-## Primer apartado<a name="id1"></a>
-Texto del primer apartado
-
-## Segundo apartado<a name="id2"></a>
-Texto del segundo apartado
 
 
 Para realizar el trabajo práctico se deberá seguir los siguientes pasos:
