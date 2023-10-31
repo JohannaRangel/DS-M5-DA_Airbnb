@@ -64,34 +64,38 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
   
 ## Recopilación de datos (Data collection)
 Texto del primer apartado
+[Ir al índice del Informe Técnico](#id00)
 
 <div id='id2' />
   
 ## Preparación de datos (Data preparation)
 Texto del segundo apartado
+[Ir al índice del Informe Técnico](#id00)
   
 <div id='id3' />
   
 ## Introducción de datos (Data entry)
 Texto del segundo apartado
+[Ir al índice del Informe Técnico](#id00)
 
 <div id='id4' />
   
 ## Procesamiento / limpieza de datos (Data processing/cleaning)
 Texto del segundo apartado
+[Ir al índice del Informe Técnico](#id00)
 
 <div id='id5' />
   
 ## Interpretación de datos (Data interpretation)
 Texto del segundo apartado
+[Ir al índice del Informe Técnico](#id00)
 
 <div id='id6' />
   
 ## Almacenamiento de datos (Data storage)
 Texto del segundo apartado
+[Ir al índice del Informe Técnico](#id00)
 
-
-[Ir al inicio del Informe Técnico](#id00)
 </details>
 
 ---
