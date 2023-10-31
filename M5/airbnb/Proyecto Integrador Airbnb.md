@@ -2,9 +2,8 @@
 
 <details>
  
-<div id='id0' /> 
- 
   **<summary>Pautas</summary>**  
+<div id='id0' /> 
 
 **El objetivo de este trabajo práctico es aplicar los conceptos y técnicas aprendidos en el modulo para realizar un análisis exploratorio y descriptivo de un conjunto de datos reales.**
 
@@ -17,14 +16,14 @@ Para realizar el trabajo práctico se deberá seguir los siguientes pasos:
 5. Responder a las preguntas que plantea el negocio sobre el dataset elegido.
 6. Elaborar un texto con las conclusiones de los resultados del análisis, incluyendo una introducción, una descripción de los datos, algunas respuestas a las preguntas planteadas, y unas conclusiones finales.
 
-## AirBnB
+### AirBnB
 
 ![N|Solid](https://piernine.co/wp-content/uploads/elementor/thumbs/Airbnb-red-lrg-1080x675-1-ph818omam1mv695ypg24xjogcbkjrurf7dgvyjglnk.jpeg)
 
 El objetivo que se busca con el análisis de los datos seleccionados es realizar una análisis exploratorio de tipo descriptivo para entender el negocio de airbnb. 
 En base al análisis descriptivo encontrar oportunidades de inversión que puedan ser capitalizadas utilizando dicho modelo de negocio.
 
-### Preguntas 
+#### Preguntas 
 
 * ¿Qué podemos describir con los datasets acerca del negocio de airbnb?
 * ¿Cuál es la mejor forma de invertir en AirBnb?
@@ -33,7 +32,7 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 * ¿En donde sugerimos invertir?
 * ¿En qué tipo de propiedad?
 
-### Recursos
+#### Recursos
 | Archivo
 | ------ 
 | calendar.csv: (incluye datos de ocupación, precio, etc.)  
