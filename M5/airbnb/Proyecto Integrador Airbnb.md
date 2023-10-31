@@ -5,8 +5,8 @@
   **<summary>Pautas</summary>**  
 <div id='id0' /> 
 
-Módulo 5: Data Analytics<br />
-Instructor Henry: Mario Esteban Suaza Medina<br />
+ **Módulo 5:** Data Analytics<br />
+**Instructor Henry:** Mario Esteban Suaza Medina<br />
 <br />
  
 **El objetivo de este trabajo práctico es aplicar los conceptos y técnicas aprendidos en el modulo para realizar un análisis exploratorio y descriptivo de un conjunto de datos reales.**
@@ -44,39 +44,43 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 | reviews.csv Datos de review de los usuarios.
 
 [Ir a las pautas](#id0)
+http://bit.ly/DS_AirBnB
 </details>
 
 ---
 <details open>
- 
-  **<summary>Resumen Ejecutivo</summary>**  
+
+ **<summary>Resumen Ejecutivo</summary>**  
 <div id='id00' /> 
 
-### Título  <!-- **Título** -->
+**Título**
 # Análisis Exploratorio de Datos de AirBnB
- 
-### Indice
+<br />
+
+**Indice**
 1. [Introducción](#idRE1)
 2. [Metodología](#idRE2)
 3. [Análisis de Datos](#idRE3)
-4. [Procesamiento / limpieza de datos](#idRE4)
-5. [Interpretación de datos](#idRE5)
-6. [Almacenamiento de datos](#idRE6)
-
+4. [Resultados y Conclusiones](#idRE4)
+5. [Recomendaciones](#idRE5)
+6. [Anexos](#idRE6)
+<br />
 
 <div id='idRE1' />
-  
+
 ### Introducción
 El informe se basa en un análisis exploratorio de los datos proporcionados con fines educativos por Henry sobre el negocio de AirBnB. Se recibieron tres (3) fuentes de datos, a saber: El Calendario de disponibilidad, la lista de propiedades y los comentarios de los usuarios.
 Se destaca la presentación y análisis de datos utilizando Power BI para la visualización ~~y SQL para la estructuración de la base de datos~~.
-
+<br />
 [Ir al índice del Resumen Ejecutivo](#id00)
+<br />
 
 <div id='idRE2' />
  
 ### Metodología
 El i
 [Ir al índice del Resumen Ejecutivo](#id00)
+<br />
 
 <div id='idRE3' />
  
@@ -88,7 +92,28 @@ El i
  - Comentarios de Usuarios
 
 [Ir al índice del Resumen Ejecutivo](#id00)
+<br />
 
+<div id='idRE4' />
+ 
+### Resultados y Conclusiones
+[Ir al índice del Resumen Ejecutivo](#id00)
+<br />
+
+<div id='idRE5' />
+ 
+### Recomendaciones
+[Ir al índice del Resumen Ejecutivo](#id00)
+<br />
+
+<div id='idRE3' />
+ 
+### Anexos
+![Titulo de la imagen](https://drive.google.com/drive/u/1/folders/1qfDtU-iFYG0I5re9P_lxQQj7vRPVbsOZ)
+
+
+[Ir al índice del Resumen Ejecutivo](#id00)
+<br />
 
 
 
@@ -158,6 +183,6 @@ Texto del segundo apartado
 
 ---
 
-
+ <font size="1"> This is my text number1</font> 
 > **Important** 
 > Esta actividad (netamente educativa) es parte de mi portafolio de prácticas que permiten mejorar mis habilidades en Data Science con problemas y conjuntos de datos del mundo real.
