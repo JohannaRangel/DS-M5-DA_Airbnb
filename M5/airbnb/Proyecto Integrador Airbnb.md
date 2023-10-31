@@ -47,11 +47,63 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 </details>
 
 ---
+<details open>
+ 
+  **<summary>Resumen Ejecutivo</summary>**  
+<div id='id00' /> 
+
+**Título**
+# Análisis Exploratorio de Datos de AirBnB
+ 
+**Índice**
+1. [Introducción](#idRE1)
+2. [Metodología](#idRE2)
+3. [Análisis de Datos](#idRE3)
+4. [Procesamiento / limpieza de datos](#idRE4)
+5. [Interpretación de datos](#idRE5)
+6. [Almacenamiento de datos](#idRE6)
+
+
+<div id='idRE1' />
+  
+### Introducción
+El informe se basa en un análisis exploratorio de los datos proporcionados con fines educativos por Henry sobre el negocio de AirBnB. Se recibieron tres (3) fuentes de datos, a saber: El Calendario de disponibilidad, la lista de propiedades y los comentarios de los usuarios.
+Se destaca la presentación y análisis de datos utilizando Power BI para la visualización ~~y SQL para la estructuración de la base de datos~~.
+
+[Ir al índice del Resumen Ejecutivo](#id00)
+
+<div id='idRE2' />
+ 
+### Metodología
+El i
+[Ir al índice del Resumen Ejecutivo](#id00)
+
+<div id='idRE3' />
+ 
+### Análisis de Datos
+- Calendario de Disponibilidad
+   - Estacionalidad y tendencia en los precios
+   - Análisis de la ocupación a lo largo del tiempo
+ - Lista de Propiedades
+ - Comentarios de Usuarios
+
+[Ir al índice del Resumen Ejecutivo](#id00)
+
+
+
+
+
+
+
+
+</details>
+
+---
 
 <details>
  
   **<summary>Informe Técnico</summary>**  
-<div id='id00' /> 
+<div id='id000' /> 
 
 
 **Índice**
@@ -66,69 +118,46 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 <div id='idIT1' />
   
 ### Recopilación de datos (Data collection)
-Las fuentes de datos fueron suministrada por #Henry en archivos csv, los cuales se descargaron a través de la plataforma students.
+Las fuentes de datos fueron suministrada por #Henry en archivos formato csv, los cuales se descargaron a través de la plataforma students.
 
 La tarea se centrará en datos históricos.
 
-[Ir al índice del Informe Técnico](#id00)
+[Ir al índice del Informe Técnico](#id000)
 
 <div id='idIT2' />
   
 ### Preparación de datos (Data preparation)
 Texto del segundo apartado
-[Ir al índice del Informe Técnico](#id00)
+[Ir al índice del Informe Técnico](#id000)
   
 <div id='idIT3' />
   
 ### Introducción de datos (Data entry)
 Texto del segundo apartado
-[Ir al índice del Informe Técnico](#id00)
+[Ir al índice del Informe Técnico](#id000)
 
 <div id='idIT4' />
   
 ### Procesamiento / limpieza de datos (Data processing/cleaning)
 Texto del segundo apartado
-[Ir al índice del Informe Técnico](#id00)
+[Ir al índice del Informe Técnico](#id000)
 
 <div id='idIT5' />
   
 ### Interpretación de datos (Data interpretation)
 Texto del segundo apartado
-[Ir al índice del Informe Técnico](#id00)
+[Ir al índice del Informe Técnico](#id000)
 
 <div id='idIT6' />
   
 ### Almacenamiento de datos (Data storage)
 Texto del segundo apartado
-[Ir al índice del Informe Técnico](#id00)
+[Ir al índice del Informe Técnico](#id000)
 
 </details>
 
 ---
 
-<details>
- 
-  **<summary>Resumen Ejecutivo</summary>**  
-<div id='id000' /> 
- 
-**Índice**
-1. [Recopilación de datos](#idRE1)
-2. [Preparación de datos](#idRE2)
-3. [Introducción de datos](#idRE3)
-4. [Procesamiento / limpieza de datos](#idRE4)
-5. [Interpretación de datos](#idRE5)
-6. [Almacenamiento de datos](#idRE6)
-
-
-<div id='idRE1' />
-  
-### Recopilación de datos (Data collection)
-Texto del primer apartado
-[Ir al índice del Resumen Ejecutivo](#id000)
-
-</details>
-
----
 
 > **Important** 
 > Esta actividad (netamente educativa) es parte de mi portafolio de prácticas que permiten mejorar mis habilidades en Data Science con problemas y conjuntos de datos del mundo real.
