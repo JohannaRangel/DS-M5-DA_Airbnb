@@ -123,4 +123,4 @@ Texto del primer apartado
 ---
 
 > **Important** 
-> Esta actividad es parte de mi portafolio de prácticas netamente educativas que permiten mejorar mis habilidades en Data Science con problemas y conjuntos de datos del mundo real.
+> Esta actividad (netamente educativa) es parte de mi portafolio de prácticas que permiten mejorar mis habilidades en Data Science con problemas y conjuntos de datos del mundo real.
