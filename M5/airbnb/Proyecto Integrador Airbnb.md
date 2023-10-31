@@ -44,6 +44,13 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 
 ---
 
+<details>
+ 
+  **<summary>Informe Técnico </summary>**  
+<div id='id00' /> 
+
+**El objetivo de este trabajo práctico es aplicar los conceptos y técnicas aprendidos en el modulo para realizar un análisis exploratorio y descriptivo de un conjunto de datos reales.**
+
 **Índice**
 1. [Recopilación de datos](#id1)
 2. [Preparación de datos](#id2)
@@ -83,6 +90,11 @@ Texto del segundo apartado
 ## Almacenamiento de datos (Data storage)
 Texto del segundo apartado
 
+
+[Ir al inicio del Informe Técnico](#id00)
+</details>
+
+---
 
 
 > **Important** 
