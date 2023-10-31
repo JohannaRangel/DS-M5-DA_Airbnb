@@ -2,6 +2,7 @@
 
 <details>
   
+<div id='id0' />  
 **<summary>Pautas</summary>**
 
 **El objetivo de este trabajo práctico es aplicar los conceptos y técnicas aprendidos en el modulo para realizar un análisis exploratorio y descriptivo de un conjunto de datos reales.**
@@ -18,8 +19,6 @@ Para realizar el trabajo práctico se deberá seguir los siguientes pasos:
 ## AirBnB
 
 ![N|Solid](https://piernine.co/wp-content/uploads/elementor/thumbs/Airbnb-red-lrg-1080x675-1-ph818omam1mv695ypg24xjogcbkjrurf7dgvyjglnk.jpeg)
-
-
 
 El objetivo que se busca con el análisis de los datos seleccionados es realizar una análisis exploratorio de tipo descriptivo para entender el negocio de airbnb. 
 En base al análisis descriptivo encontrar oportunidades de inversión que puedan ser capitalizadas utilizando dicho modelo de negocio.
@@ -40,6 +39,7 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 | listings.csv: Detalle de cada operación de Listing (incluye datos descriptivos de la vivienda (ambientes, host, noches mínimas y máximas, cantidad de reviews)
 | reviews.csv Datos de review de los usuarios.
 
+[Ir al inicio de las pautas](#id0)
 </details>
 
 ---
@@ -47,32 +47,43 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 **Índice**
 1. [Recopilación de datos](#id1)
 2. [Preparación de datos](#id2)
-
-
-
-Data entry
- Data processing/cleaning
- Data interpretation
-  Data storage
+3. [Introducción de datos](#id3)
+4. [Procesamiento / limpieza de datos](#id4)
+5. [Interpretación de datos](#id5)
+6. [Almacenamiento de datos](#id6)
 
 
 <div id='id1' />
   
 ## Recopilación de datos (Data collection)
 Texto del primer apartado
-Country/City	File Name	Description
-Buenos Aires	listings.csv.gz	Detailed Listings data
-Buenos Aires	calendar.csv.gz	Detailed Calendar Data
-Buenos Aires	reviews.csv.gz	Detailed Review Data
-  
-
-  
 
 <div id='id2' />
   
 ## Preparación de datos (Data preparation)
 Texto del segundo apartado
   
+<div id='id3' />
+  
+## Introducción de datos (Data entry)
+Texto del segundo apartado
+
+<div id='id4' />
+  
+## Procesamiento / limpieza de datos (Data processing/cleaning)
+Texto del segundo apartado
+
+<div id='id5' />
+  
+## Interpretación de datos (Data interpretation)
+Texto del segundo apartado
+
+<div id='id6' />
+  
+## Almacenamiento de datos (Data storage)
+Texto del segundo apartado
+
+
 
 > **Important** 
 > Esta actividad es parte de mi portafolio de prácticas netamente educativas que permiten mejorar mis habilidades en Data Science con problemas y conjuntos de datos del mundo real.
