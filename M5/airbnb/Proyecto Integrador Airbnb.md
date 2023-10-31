@@ -18,7 +18,7 @@ Bienvenido al TP Integrador del M5.
 
 **Índice**
 1. [Primer apartado](#id1)
-2. [Segundo apartado](https://github.com/JohannaRangel/DS_SoyHenry/edit/main/M5/airbnb/Proyecto%20Integrador%20Airbnb.md#seccion-dos)
+2. [Segundo apartado](https://github.com/JohannaRangel/DS_SoyHenry/M5/airbnb/Proyecto%20Integrador%20Airbnb.md#seccion-dos)
 
    
 <div id='id1' />
