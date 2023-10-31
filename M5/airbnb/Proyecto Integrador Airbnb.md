@@ -111,6 +111,9 @@ El i
 ### Anexos
 [Titulo de la imagen](https://drive.google.com/drive/u/1/folders/1qfDtU-iFYG0I5re9P_lxQQj7vRPVbsOZ)
 
+https://github.com/JohannaRangel/DS_SoyHenry/blob/main/M5/asset/Page1.png
+
+https://raw.githubusercontent.com/JohannaRangel/DS_SoyHenry/main/M5/asset/Page1.png
 
 [Ir al índice del Resumen Ejecutivo](#id00)
 <br />
