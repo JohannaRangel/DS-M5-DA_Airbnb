@@ -18,7 +18,7 @@ Bienvenido al TP Integrador del M5.
 
 **Índice**
 1. [Primer apartado](#id1)
-2. [Segundo apartado](https://github.com/JohannaRangel/DS_SoyHenry/M5/airbnb/Proyecto%20Integrador%20Airbnb.md#seccion-dos)
+2. [Segundo apartado](#id1)
 
    
 <div id='id1' />
@@ -52,7 +52,8 @@ Texto del segundo apartado
 
 
 Para realizar el trabajo práctico se deberá seguir los siguientes pasos:
-
+<div id='id2' />
+  
 1. Descargar el archivo con los datos desde [indicar la fuente o el enlace].
 2. Importar los datos en un la herramienta que deseen utilizar (Power Bi, Python)
 3. Realizar una limpieza y validación preliminar de los datos, identificando y tratando posibles valores faltantes, erróneos o atípicos.
