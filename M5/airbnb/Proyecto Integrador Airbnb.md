@@ -52,10 +52,10 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
   **<summary>Resumen Ejecutivo</summary>**  
 <div id='id00' /> 
 
-**Título**
+### Título  <!-- **Título** -->
 # Análisis Exploratorio de Datos de AirBnB
  
-**Índice**
+### Indice
 1. [Introducción](#idRE1)
 2. [Metodología](#idRE2)
 3. [Análisis de Datos](#idRE3)
