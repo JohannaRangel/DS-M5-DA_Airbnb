@@ -1,8 +1,10 @@
 # Proyecto Integrador - Airbnb
 
 <details>
-
-  **<summary>Pautas</summary>** <div id='id0' />  
+ 
+<div id='id0' /> 
+ 
+  **<summary>Pautas</summary>**  
 
 **El objetivo de este trabajo práctico es aplicar los conceptos y técnicas aprendidos en el modulo para realizar un análisis exploratorio y descriptivo de un conjunto de datos reales.**
 
