@@ -7,6 +7,7 @@
 
 Módulo 5: Data Analytics<br />
 Instructor: Mario Esteban Suaza Medina<br />
+<br />
  
 **El objetivo de este trabajo práctico es aplicar los conceptos y técnicas aprendidos en el modulo para realizar un análisis exploratorio y descriptivo de un conjunto de datos reales.**
 
