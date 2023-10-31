@@ -42,9 +42,12 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 | calendar.csv: (incluye datos de ocupación, precio, etc.)  
 | listings.csv: Detalle de cada operación de Listing (incluye datos descriptivos de la vivienda (ambientes, host, noches mínimas y máximas, cantidad de reviews)
 | reviews.csv Datos de review de los usuarios.
+| [Repositorio](http://bit.ly/DS_AirBnB)
 
-[Ir a las pautas](#id0)
-http://bit.ly/DS_AirBnB
+<br />
+
+[Ir al inicio de las pautas](#id0)
+
 </details>
 
 ---
