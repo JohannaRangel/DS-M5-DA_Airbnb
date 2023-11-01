@@ -51,7 +51,7 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 </details>
 
 ---
-<details open>
+<details>
 
  **<summary>Resumen Ejecutivo</summary>**  
 <div id='id00' /> 
