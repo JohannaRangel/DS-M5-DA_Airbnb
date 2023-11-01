@@ -100,12 +100,24 @@ El i
 <div id='idRE4' />
  
 ### Resultados y Conclusiones
+
+Formas de invertir en Airbnb:
+ Usando capital propio.
+  Adquirir la propiedad
+ Generar ingresos sin ser propietario. 
+  Administrar las propiedades de otros. 
+  Ofrecer mantenimiento profesional (limpiezas profundas y por estadias)
+  Automatización y adaptación tecnológica
+  Fotografía/vídeos de las propiedades
+
 [Ir al índice del Resumen Ejecutivo](#id00)
 <br />
 
 <div id='idRE5' />
  
-### Recomendaciones
+### Recomendaciones 
+
+
 [Ir al índice del Resumen Ejecutivo](#id00)
 <br />
 
