@@ -402,6 +402,9 @@ plt.show()
 ```
 ![P5](https://raw.githubusercontent.com/JohannaRangel/DS_SoyHenry/main/M5/asset/p5.png)<br />
 
+**Modelo Entidad Relación en Power BI**
+![ER](https://raw.githubusercontent.com/JohannaRangel/DS_SoyHenry/main/M5/asset/modeloER.png)
+
 [Ir al inicio del Informe Técnico](#id000)
 
 </details>
