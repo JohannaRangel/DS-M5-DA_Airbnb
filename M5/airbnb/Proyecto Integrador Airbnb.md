@@ -1,4 +1,6 @@
-# Proyecto Integrador - Airbnb
+![Logo](https://raw.githubusercontent.com/JohannaRangel/DS_SoyHenry/main/M5/asset/airbnb_logo2.png)
+
+# Proyecto Integrador - Airbnb 
 
 <details>
  
