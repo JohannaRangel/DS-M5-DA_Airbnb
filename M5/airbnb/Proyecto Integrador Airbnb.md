@@ -43,7 +43,9 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 | ------ 
 | calendar.csv: (incluye datos de ocupación, precio, etc.)  
 | listings.csv: Detalle de cada operación de Listing (incluye datos descriptivos de la vivienda (ambientes, host, noches mínimas y máximas, cantidad de reviews)
-| reviews.csv Datos de review de los usuarios.
+| reviews.csv Datos de review de los usuarios.<br />
+
+*Para descargar los archivos te recomendamos en el siguiente enlace **[Repositorio](http://bit.ly/DS_AirBnB)** (carpeta Archivos)*
 <br />
 
 [Ir al inicio de las pautas](#id0)
@@ -187,8 +189,7 @@ Además, se proporcionan posibles formas de inversión en el negocio Airbnb:
 ## - Informe Reseñas
 ![Reseñas](https://raw.githubusercontent.com/JohannaRangel/DS_SoyHenry/main/M5/asset/Page3_Reseñas.png)<br />
 
-*Para interactuar con los datos en Power BI Desktop te recomendamos descargar en el siguiente enlace el archivo ModeloAirbnb.pbix*
-[Repositorio](http://bit.ly/DS_AirBnB)
+*Para interactuar con los datos en Power BI Desktop te recomendamos en el siguiente enlace **[Repositorio](http://bit.ly/DS_AirBnB)** (ModeloAirbnb.pbix)*
 <br />
 
 [Ir al índice del Resumen Ejecutivo](#id00)
