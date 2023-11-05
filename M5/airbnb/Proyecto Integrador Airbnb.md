@@ -156,7 +156,8 @@ Para comparar Airbnb con otras alternativas de inversión, es crucial llevar a c
 
 *La elección entre Airbnb y otras alternativas de inversión dependerá de tus objetivos financieros, tolerancia al riesgo, horizonte temporal y experiencia. Se sugiere realizar un análisis exhaustivo y consultar a un asesor financiero antes de tomar decisiones de inversión.*
 
-**- Además, se proporcionan posibles formas de inversión en el negocio Airbnb:**
+Además, se proporcionan posibles formas de inversión en el negocio Airbnb:
+
 - Usando capital propio:
  Adquirir propiedades para alquilar.
  Invertir en acciones de Airbnb en la bolsa.
@@ -175,13 +176,13 @@ Para comparar Airbnb con otras alternativas de inversión, es crucial llevar a c
 <div id='idRE6' />
  
 ### Anexos
-## - Informe Propiedades**
+## - Informe Propiedades
 ![Propiedades](https://raw.githubusercontent.com/JohannaRangel/DS_SoyHenry/main/M5/asset/Page1_Propiedades.png)<br />
 
-## - Informe Calendario**
+## - Informe Calendario
 ![Calendario](https://raw.githubusercontent.com/JohannaRangel/DS_SoyHenry/main/M5/asset/Page2_Calendario.png)<br />
 
-## - Informe Reseñas**
+## - Informe Reseñas
 ![Reseñas](https://raw.githubusercontent.com/JohannaRangel/DS_SoyHenry/main/M5/asset/Page3_Reseñas.png)<br />
 
 *Para interactuar con los datos en Power BI Desktop te recomendamos descargar en el siguiente enlace el archivo ModeloAirbnb.pbix*
@@ -399,6 +400,27 @@ plt.show()
 ![P5](https://raw.githubusercontent.com/JohannaRangel/DS_SoyHenry/main/M5/asset/p5.png)<br />
 
 [Ir al inicio del Informe Técnico](#id000)
+
+</details>
+
+---
+<details>
+ 
+   **<summary>Conclusiones</summary>**  
+  
+La ejecución de este proyecto integrador dedicado al análisis exploratorio de datos de Airbnb, ha sido altamente enriquecedora. Durante el desarrollo del módulo 5 de Data Analytics adquirí conocimiento que encontraron aplicación directa en cada etapa de este proyecto. Cada fase representó una oportunidad para sumergirse en el mundo práctico del análisis de datos.
+
+Aunque este proyecto se llevó a cabo individualmente, las sesiones de Pair Programming permitieron valiosas interacciones y un intercambio de ideas fructífero. Aprovechamos estas instancias para discutir conceptos, apoyarnos mutuamente y enriquecer nuestras perspectivas con la diversidad de experiencias y conocimientos del grupo.
+
+La importancia de trabajar en equipo se hizo evidente, no solo por la riqueza del intercambio, sino también por la contribución y el apoyo recíproco, lo que fue crucial para el progreso y la calidad del análisis desarrollado.<br />
+
+
+Gracias!!!, Mario #InstructorHenry<br />
+Gracias!!!, queridos colegas Cohorte Dataft-17<br />
+
+
+| [<img src="https://avatars.githubusercontent.com/JohannaRangel" width=115><br><sub>Johanna Rangel</sub>](https://github.com/JohannaRangel) | [<img src="https://avatars.githubusercontent.com/u/120042696?v=4" width=115><br><sub>Gretel Sanchez</sub>](https://github.com/KGSanchezM) | [<img src="https://avatars.githubusercontent.com/u/137807368?v=4" width=115><br><sub>Francisco Rombini</sub>](https://github.com/Frombini) | [<img src="https://avatars.githubusercontent.com/u/135461711?v=4" width=115><br><sub>Gabriel Verón</sub>](https://github.com/EGabrielV) | 
+| :---: | :---: | :---: | :---: |
 
 </details>
 
