@@ -31,6 +31,16 @@ Soft Skill: Problem Solving
 ### Project:
 [Data Analytics](https://github.com/JohannaRangel/DataScience_SoyHenry/blob/main/M5/airbnb/Proyecto%20Integrador%20Airbnb.md): You can't miss this interesting practice. 
 <br />
+<br />
 
+### References and Resources:
+[Microsoft Power BI](https://learn.microsoft.com/es-es/power-bi/)<br />
+[Microsoft Power Query](https://learn.microsoft.com/en-us/power-query/)<br />
+[Microsoft DAX](https://learn.microsoft.com/en-us/dax/)<br />
+[Matplotlib](https://matplotlib.org/)<br />
+[Tableau](https://www.tableau.com/resources)<br />
+<br /><br />
+[Podcast](https://dataviztoday.com/)
+<br />
 
 :warning: *P.S.: Those who are really good know the secret, practice makes perfect.*
