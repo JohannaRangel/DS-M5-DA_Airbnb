@@ -44,8 +44,7 @@ Soft Skill: Initiative and Leadership
 **``` Supervised Learning ```**  **``` Unsupervised Learning ```**  **``` Linear Regression ```**  **``` Decision Tree ```** <br />
 <br />
 ### Project:
-[Machine Learning](https://github.com/JohannaRangel/DS-M6-ML_Automotive_MarketAnalysis): You can't miss this interesting practice. It is about emulating a work environment, from an innovation area where they request to build an MVP (Minimum Viable Product) of a Big Data environment.
-You can find my exercises in the "Evidence" folder. :zany_face: :upside_down_face: Excellent challenge...
+[Machine Learning](https://github.com/JohannaRangel/DS-M6-ML_Automotive_MarketAnalysis): You can't miss this interesting practice. 
 <br />
 
 
