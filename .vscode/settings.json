@@ -1,9 +1,0 @@
-{
-    "[markdown]": {
-        "editor.defaultFormatter": "vscode.css-language-features",
-        "editor.defaultFoldingRangeProvider": "vscode.css-language-features",
-        "workbench.editor.languageDetection": true
-    },
-    "editor.defaultFoldingRangeProvider": "vscode.css-language-features",
-    "workbench.editor.languageDetection": false
-}
