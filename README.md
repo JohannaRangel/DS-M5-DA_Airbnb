@@ -22,17 +22,22 @@ The Infrastructure management is not entirely convinced about using this technol
 [About_M5](M5/About_M5.md) - Key Module 5 Information.
 
 #### Integrative Project - M5 | [Proyecto Integrador - Airbnb](https://github.com/JohannaRangel/DataScience_SoyHenry/blob/main/M5/airbnb/Proyecto%20Integrador%20Airbnb.md) 
-Contexto: During this practice, the idea is to emulate a work environment. The innovation team has requested the construction of an MVP (Minimum Viable Product) for a Big Data environment. The goal is to load CSV files that were previously used in a data warehouse in MySQL into a Hadoop environment.<br />
-The Infrastructure management is not entirely convinced about using this technology, so no budget has been allocated for this initiative. Consequently, it is currently not possible to use a vendor (Azure, AWS, Google) to implement this environment. That's why the entire MVP must be implemented using Docker, enabling a demonstration to the Infrastructure team to showcase the advantages of employing Big Data technologies.
+**```PowerBI```** **```Python```** **```ETL```** **```EDA```**<br />
 
+The objective of this practical work is to apply the concepts and techniques learned in the module to perform an exploratory and descriptive analysis of a real dataset. Three alternatives were proposed: * Call Center, * Gaming, * Airbnb, and the latter was chosen.
+Airbnb: Conduct a descriptive exploratory analysis to understand the Airbnb business. Based on the descriptive analysis, identify investment opportunities that can be capitalized using this business model.
 <br />
 
 
-M6 - Machine Learning
-------------- 
-[About_M3](M3/About_M3.md) - Key Module 3 Information
-1. [Homework_M3_1](M3/Homework_M3_1_VariablesFunctionsProcedures.sql) - Variables. Features. Stored Procedures
-2. [Help](.ipynb) -  documentation
+## M6 - Machine Learning
+[About_M6](M6/About_M6.md) - Key Module 6 Information.
+
+#### Integrative Project - M6 | [Repository: DS-M6-ML_Automotive_MarketAnalysis](https://github.com/JohannaRangel/DS-M6-ML_Automotive_MarketAnalysis) 
+**```Machine Learning```** **```Supervised Learning```** **```Classification```** **```Sckit-Learn```** <br />
+
+During these days, you will be putting your skills into practice in the field of data prediction. You should thoroughly explore the data, understand the problem, and then experiment with our machine learning models, using the appropriate metrics to measure the performance of the models and select the best one.
+This automotive market research Machine Learning project will consist of three phases: Exploratory Data Analysis, Data Preparation, and Modeling and Evaluation.
 <br />
+
 
 
