@@ -1,7 +1,7 @@
 # Module 6: Machine Learning
 #### Started: 06/11/23 | Ended: 17/11/23<br />
 <p align="center">
-  <img width="200" alt="100" src="https://github.com/JohannaRangel/DataScience_SoyHenry/blob/main/M5/asset/ML.png">
+  <img width="350" alt="250" src="https://github.com/JohannaRangel/DataScience_SoyHenry/blob/main/M5/asset/ML.png">
 </p>
 <br />
 During this Lecture I learned:<br />
